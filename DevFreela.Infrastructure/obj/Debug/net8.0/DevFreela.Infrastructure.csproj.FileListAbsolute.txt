@@ -1,0 +1,12 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.sourcelink.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\refint\DevFreela.Infrastructure.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\ref\DevFreela.Infrastructure.dll

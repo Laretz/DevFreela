@@ -1,0 +1,139 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\appsettings.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\DevFreela.API.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\DevFreela.API.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\DevFreela.API.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\DevFreela.API.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.csproj.AssemblyReference.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\scopedcss\bundle\DevFreela.API.styles.css
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreel.84249821.Up2Date
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\refint\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreela.API\obj\Debug\net8.0\ref\DevFreela.API.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.exe
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.deps.json
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.runtimeconfig.json
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.pdb
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.csproj.AssemblyReference.cache
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.AssemblyInfoInputs.cache
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.AssemblyInfo.cs
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.sourcelink.json
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.API.props
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\scopedcss\bundle\DevFreela.API.styles.css
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreel.84249821.Up2Date
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\refint\DevFreela.API.dll
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.pdb
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
+C:\Users\LareTz\Dev\DevFreelaAPI\obj\Debug\net8.0\ref\DevFreela.API.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.runtimeconfig.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\DevFreela.API.pdb
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.csproj.AssemblyReference.cache
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.AssemblyInfoInputs.cache
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.AssemblyInfo.cs
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.sourcelink.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.API.props
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\scopedcss\bundle\DevFreela.API.styles.css
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreel.84249821.Up2Date
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\refint\DevFreela.API.dll
+c:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\DevFreelaAPI\obj\Debug\net8.0\ref\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\devFreela.API\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\devFreela.API\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\metododotnet\devFreela.API\obj\Debug\net8.0\DevFreela.API.sourcelink.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\appsettings.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.API.exe
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.API.deps.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.API.runtimeconfig.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.API.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.csproj.AssemblyReference.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets\msbuild.DevFreela.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets\msbuild.build.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DevFreela.API.props
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\scopedcss\bundle\DevFreela.API.styles.css
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreel.84249821.Up2Date
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\refint\DevFreela.API.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.pdb
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\DevFreela.API.genruntimeconfig.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\devfreela.api\obj\Debug\net8.0\ref\DevFreela.API.dll
