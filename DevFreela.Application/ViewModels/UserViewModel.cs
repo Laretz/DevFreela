@@ -5,9 +5,15 @@ using System.Threading.Tasks;
 
 namespace DevFreela.Application.ViewModels
 {
-    public class UserViewModels(string fullName, string email)
+    public class UserViewModel
     {
-        public string FullName { get; private set; } = fullName;
-        public string Email { get; private set; } = email;
+        public UserViewModel(string fullName, string email)
+        {
+            FullName = fullName;
+            Email = email;
+        }
+
+        public string FullName { get; private set; }
+        public string Email { get; private set; }
     }
 }

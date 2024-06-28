@@ -3,6 +3,11 @@
   <ItemGroup>
     <ProjectReference Include="..\DevFreela.Core\DevFreela.Core.csproj" />
     <ProjectReference Include="..\DevFreela.Infrastructure\DevFreela.Infrastructure.csproj" />
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.35" />
   </ItemGroup>
 
   <PropertyGroup>
@@ -12,3 +17,5 @@
   </PropertyGroup>
 
 </Project>
+
+
