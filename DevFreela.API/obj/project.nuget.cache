@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "b71xkwu8jAR+UUzNsQoILAt2xZsklzEAzCU66eKX7iKELy69ZsqPMJie7goN29k7OWUwcafDz18SjvE8ARpNPg==",
+  "dgSpecHash": "PUJV4aA2MSQgVRYWERjlYlxHvZrn2Ahdd0H3y5F5nf+ov9LwxMi38bq4KPDZimS0h6o/PcLHgBCcqBR+e9WqRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

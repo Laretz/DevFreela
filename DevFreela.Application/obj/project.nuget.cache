@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "LzJ4exJ+5x13E6/be9kE3H97tRJqBeoLQWKm5PTC7WnDA6LUaLUE9++Bj+liMpwVyKEUOdLup9QaqHHoyZ/mIw==",
+  "dgSpecHash": "kNsN8siaV91sbkFAoconRwv16965kRJXe/QdqF1FJ1z/OndtvICw3TfmHjqnEAvkrhZ2V3YwPB/ulfmQRUKURA==",
   "success": true,
   "projectFilePath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Application\\DevFreela.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.5\\microsoft.data.sqlclient.5.1.5.nupkg.sha512",

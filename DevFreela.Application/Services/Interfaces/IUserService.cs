@@ -1,4 +1,4 @@
-using System;
+/* using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -12,4 +12,4 @@ namespace DevFreela.Application.Services.Interfaces
         UserViewModel GetUser(int id);
         int Create(CreateUserInputeModel inputModel);
     }
-}
+} */

@@ -1,3 +1,4 @@
+/* DESUSO, POIS AGORA IMPLEMENTAMOS CQRS
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -37,4 +38,4 @@ namespace DevFreela.Application.Services.Implementations
             return new UserViewModel(user.FullName, user.Email);
         }
     }
-}
+} */
