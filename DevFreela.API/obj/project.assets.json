@@ -1670,6 +1670,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Dapper": "2.1.35",
           "DevFreela.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6"

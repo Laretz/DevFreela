@@ -1,15 +1,21 @@
 using DevFreelaAPI.Models;
 using DevFreela.Infrastructure.Persistence;
-using DevFreela.Application.Services.Implementations;
-using DevFreela.Application.Services.Interfaces;
+/* using DevFreela.Application.Services.Implementations;
+using DevFreela.Application.Services.Interfaces; */
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using DevFreela.Application.Commands.CreateProjects;
+using DevFreela.Core.Repositories;
+using DevFreela.Infrastructure.Persistence.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ISkillRepository, SkillRepository>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
@@ -22,8 +28,8 @@ builder.Services.Configure<OpeningTimeOption>(builder.Configuration.GetSection("
 var connectionString = builder.Configuration.GetConnectionString("DevFreelaCs");
 builder.Services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<IProjectService, ProjectService>();
-
+/* builder.Services.AddScoped<IProjectService, ProjectService>();
+ */
 builder.Services.AddSingleton<ExampleClass>(e => new ExampleClass{Name = "Initial Stage" });
 
 var app = builder.Build();
@@ -59,7 +65,7 @@ app.MapGet("/weatherforecast", () =>
 
 app.Run();
 
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
+record WeatherForecast(DateOnly Date, int TemperatureC, string Summary)
 {
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }

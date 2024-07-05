@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DevFreela.Application.Commands.CreateUser;
 using DevFreela.Application.Queries.GetUsers;
 using DevFreelaAPI.Models;
 using MediatR;
@@ -18,7 +19,7 @@ namespace DevFreelaAPI.Controllers
             _mediator = mediator;
         }
 
-           // api/users/1
+        // api/users/1
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -36,9 +37,11 @@ namespace DevFreelaAPI.Controllers
 
         //api/users
         [HttpPost]
-        public IActionResult Post([FromBody] CreateUserModel createUserModel)
+        public async Task<IActionResult> Post([FromBody] CreateUserCommand command)
         {
-            return CreatedAtAction(nameof(GetById), new {id = 1}, createUserModel);
+            var id = await _mediator.Send(command);
+
+            return CreatedAtAction(nameof(GetById), new { id = id }, command);
         }
 
         //api/users/1/login
