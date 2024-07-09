@@ -248,3 +248,6 @@ C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\n
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\Dapper.dll
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -14,4 +14,4 @@ namespace DevFreela.Application.ViewModels
         public int IdFreeLancer { get; set; }
         public decimal TotalCost { get; set; }
     }
-}
+} 

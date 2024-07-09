@@ -13,4 +13,4 @@ namespace DevFreela.Application.InputModels
         public DateTime BirthDate { get; set; }
         
     }
-}
+} 

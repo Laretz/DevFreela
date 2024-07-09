@@ -11,4 +11,4 @@ namespace DevFreela.Application.ViewModels
         public int IdProject { get; set; }
         public int IdUser { get; set; }
     }
-}
+} 

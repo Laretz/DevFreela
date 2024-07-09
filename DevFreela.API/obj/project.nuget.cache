@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "pSHUpO3R1i4hXZ5kR/c2Y6a3y2JUqJDuf8HyxuEFLFs4mwy8vm+hwkzBr4ZZcO6Iha+FcBO9yno+xsBLbORaTw==",
+  "dgSpecHash": "mIKRzc+PWx6T9Kg0d+wsloDIMLAdjZJ1yb7S3MtJGmAEfk9VEgVjC8kcmQiulo2ka13Cum1Z5DJTkEV0PYWifw==",
   "success": true,
   "projectFilePath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.API\\DevFreela.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\renat\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\renat\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\renat\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

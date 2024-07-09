@@ -7,6 +7,9 @@ using Microsoft.Extensions.DependencyInjection;
 using DevFreela.Application.Commands.CreateProjects;
 using DevFreela.Core.Repositories;
 using DevFreela.Infrastructure.Persistence.Repositories;
+using FluentValidation.AspNetCore;
+using FluentValidation;
+using DevFreela.Application.Vallidators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +22,11 @@ builder.Services.AddScoped<ISkillRepository, SkillRepository>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddFluentValidationClientsideAdapters();
+builder.Services.AddValidatorsFromAssemblyContaining<CreateUserCommandValidator>();
+  
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreateProjectCommand).Assembly));
 //builder.Services.AddMediatR();
