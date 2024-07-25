@@ -44,7 +44,8 @@ namespace DevFreela.API.Controllers
             return Ok(projects);
         }
 
-        [HttpGet]
+         // api/projects/2
+        [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
             var query = new GetProjectByIdQuery(id);
@@ -61,15 +62,16 @@ namespace DevFreela.API.Controllers
 
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] CreateProjectCommand command){
-            if(command.Title.Length >50)
+            if(!ModelState.IsValid)
             {
-                return BadRequest();
+               
+                return BadRequest(); 
             }
             var id = await _mediator.Send(command);
             return CreatedAtAction(nameof(GetById), new {id = id}, command);
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, [FromBody] UpdateProjectCommand command)
         {
             if (command.Description.Length > 200){

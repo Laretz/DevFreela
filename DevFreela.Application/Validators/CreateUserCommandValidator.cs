@@ -28,7 +28,7 @@ namespace DevFreela.Application.Vallidators
         }
 
         public bool ValidPassword(string password){
-            var regex = new Regex(@"^.* (?=.{8,})(?=.*\d)(?=.*[a-z])(?=.[A-Z])(?=.*[!*@#$%^&+=]).*$");
+            var regex = new Regex(@"^.*(?=.{8,})(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[!*@#$%^&+=]).*$");
             return regex.IsMatch(password);
         }
             

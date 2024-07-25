@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace DevFreela.Infrastructure.Persistence.Configurations
 {
-    public class ProjectCommentConfigurations : IEntityTypeConfiguration <ProjectComment>
+      public class ProjectCommentConfigurations : IEntityTypeConfiguration<ProjectComment>
     {
         public void Configure(EntityTypeBuilder<ProjectComment> builder)
         {

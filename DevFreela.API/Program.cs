@@ -10,23 +10,24 @@ using DevFreela.Infrastructure.Persistence.Repositories;
 using FluentValidation.AspNetCore;
 using FluentValidation;
 using DevFreela.Application.Vallidators;
+using DevFreela.API.Filters;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<ISkillRepository, SkillRepository>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddControllers();
+builder.Services.AddControllers(options =>
+{
+    options.Filters.Add<ValidationsFilter>();
+});
 
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();
 builder.Services.AddValidatorsFromAssemblyContaining<CreateUserCommandValidator>();
-  
+
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreateProjectCommand).Assembly));
 //builder.Services.AddMediatR();
@@ -39,6 +40,9 @@ builder.Services.AddDbContext<DevFreelaDbContext>(options => options.UseSqlServe
 /* builder.Services.AddScoped<IProjectService, ProjectService>();
  */
 builder.Services.AddSingleton<ExampleClass>(e => new ExampleClass{Name = "Initial Stage" });
+builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<ISkillRepository, SkillRepository>();
 
 var app = builder.Build();
 
@@ -70,6 +74,8 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
+
+app.MapControllers();
 
 app.Run();
 

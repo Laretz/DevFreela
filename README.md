@@ -76,6 +76,13 @@ API referencia para os Core, Instrastructure e Application
                   implementar interface com metodo do service
                   injeçao de dependencias
 
+
+-> Validação de Dados de Entrada
+   - Instalar pacote FluenteValidation
+   - dentro de Application criar a pasta Validators e configurar as validações
+   - criar o filtro, dentro da API, criar a pasta Filters que herda a IActionFilter 
+   - e configurar no program.cs , adicionar o options.Filters.Add<ValidationsFilter>(); dentro do 
+
       
 
     
