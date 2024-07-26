@@ -11,6 +11,8 @@ using FluentValidation.AspNetCore;
 using FluentValidation;
 using DevFreela.Application.Vallidators;
 using DevFreela.API.Filters;
+using DevFreela.Core.Services;
+using DevFreela.Infrastructure.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -43,6 +45,7 @@ builder.Services.AddSingleton<ExampleClass>(e => new ExampleClass{Name = "Initia
 builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<ISkillRepository, SkillRepository>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 
 var app = builder.Build();
 

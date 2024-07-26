@@ -83,6 +83,20 @@ API referencia para os Core, Instrastructure e Application
    - criar o filtro, dentro da API, criar a pasta Filters que herda a IActionFilter 
    - e configurar no program.cs , adicionar o options.Filters.Add<ValidationsFilter>(); dentro do 
 
+
+-> Autenticação e Autorização com JWT
+   - Criar pasta Service dentro do DevFreela.Core e criar a interface IAuthService 
+   - Criar pasta Auth dentro do DevFreela.Infrastructure e criar a classe AuthService que implementa a IAuthService
+   - Dentro do appsettings.json criar Jwt com Key Issuer e Audience
+   - Agora no AuthService, injetamos a dependencia do configuration e usamos as informações que criamos no appsettings . 
+   - Criar claims, token e retornar o stringToken
+
+   - Adicionar os campos dentro de user (password e role) e ajustar o CreateUserCommandHandler + CreateUserCommand
+   -
+   
+
+   
+
       
 
     
