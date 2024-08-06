@@ -12,8 +12,9 @@ namespace DevFreela.Core.Entities
             Email = email;
             BirthDate = birthDate;
             Active = true;
-            Role = role;
             Password = password;
+            Role = role;
+            
 
             CreatedAt = DateTime.Now;
             Skills = new List<UserSkill>();
