@@ -104,6 +104,15 @@ API referencia para os Core, Instrastructure e Application
 
    - Configurar permissões por endpoint
       -> Dentro dos controllers, adicionar [Authorize] na classe e [AllowAnonymous] aos endpoints que podem ser acessado sem login
+      -> Alguns metodos, voce quer que apenas alguma role tenha acesso, entao usar [AuthorizeAuthorize(Roles =  "client, freelancer")]
+
+-> Implementando Testes Unitarios com XUnit
+   - para criar projeto de testes e adicionar a solução
+      -> dotnet new xunit -n DevFreela.UnitTests -o DevFreela.UnitTests
+      -> dotnet sln add DevFreela.UnitTests/DevFreela.UnitTests.csproj
+   - adicionar refência aos projetos necessarios
+      -> dotnet add reference ../DevFreela.Core/DevFreela.Core.csproj
+      -> dotnet add reference ../DevFreela.Application/DevFreela.Application.csproj
 
    
 
