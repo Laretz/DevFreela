@@ -7,11 +7,13 @@ using DevFreela.Application.Commands.LoginUser;
 using DevFreela.Application.Queries.GetUsers;
 using DevFreelaAPI.Models;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevFreelaAPI.Controllers
 {
     [Route("api/users")]
+    [Authorize]
     public class UsersController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -38,6 +40,7 @@ namespace DevFreelaAPI.Controllers
 
         //api/users
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Post([FromBody] CreateUserCommand command)
         {
 
@@ -48,6 +51,7 @@ namespace DevFreelaAPI.Controllers
 
         //api/users/1/login
         [HttpPut("login")]
+        [AllowAnonymous]
         public async Task <IActionResult> Login([FromBody] LoginUserCommand command)
         {
             var loginUserViewModel = await _mediator.Send(command);

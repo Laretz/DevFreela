@@ -101,7 +101,9 @@ API referencia para os Core, Instrastructure e Application
       -> Criar LoginUserViewModel na pasta ViewModels dentro da DevFreela.Application
       -> Criar LoginUserCommand + LoginUserCommandHandler dentro da pasta Commands na DevFreelaApplication
       -> no handler criar um hash da senha, buscar no banco ed dados um User que tenha email e a senha no formato hash (criar o metodo no IUserRepostory (Core) e implementar ele no UserRepository(infrastructure))
-      
+
+   - Configurar permissões por endpoint
+      -> Dentro dos controllers, adicionar [Authorize] na classe e [AllowAnonymous] aos endpoints que podem ser acessado sem login
 
    
 
