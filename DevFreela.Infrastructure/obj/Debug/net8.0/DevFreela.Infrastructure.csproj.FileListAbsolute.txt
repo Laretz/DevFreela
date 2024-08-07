@@ -16,3 +16,21 @@ C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreel.D77BFD02.Up2Date
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.runtimeconfig.json
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.genruntimeconfig.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.deps.json
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.runtimeconfig.json
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfo.cs
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.sourcelink.json
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreel.D77BFD02.Up2Date
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\refint\DevFreela.Infrastructure.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.pdb
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.genruntimeconfig.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\ref\DevFreela.Infrastructure.dll

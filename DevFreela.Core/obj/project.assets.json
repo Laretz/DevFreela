@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\renat\\.nuget\\packages\\": {}
+    "C:\\Users\\LareTz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "projectUniqueName": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
       "projectName": "DevFreela.Core",
-      "projectPath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
-      "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Core\\obj\\",
+      "projectPath": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj",
+      "packagesPath": "C:\\Users\\LareTz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LareTz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

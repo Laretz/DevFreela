@@ -4157,32 +4157,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\renat\\.nuget\\packages\\": {}
+    "C:\\Users\\LareTz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
       "projectName": "DevFreela.Infrastructure",
-      "projectPath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\LareTz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\LareTz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
-              "projectPath": "C:\\Users\\renat\\3D Objects\\workspace\\0.8 .NET\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
+            "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj": {
+              "projectPath": "C:\\Users\\LareTz\\Dev\\DevFreela\\DevFreela.Core\\DevFreela.Core.csproj"
             }
           }
         }

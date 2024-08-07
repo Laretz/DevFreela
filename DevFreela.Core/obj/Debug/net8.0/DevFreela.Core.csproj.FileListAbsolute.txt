@@ -21,3 +21,15 @@ C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Core\obj\Debug\
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Core\obj\Debug\net8.0\refint\DevFreela.Core.dll
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.pdb
 C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela\DevFreela.Core\obj\Debug\net8.0\ref\DevFreela.Core.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\bin\Debug\net8.0\DevFreela.Core.deps.json
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\bin\Debug\net8.0\DevFreela.Core.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\bin\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.sourcelink.json
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\refint\DevFreela.Core.dll
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\DevFreela.Core.pdb
+C:\Users\LareTz\Dev\DevFreela\DevFreela.Core\obj\Debug\net8.0\ref\DevFreela.Core.dll
